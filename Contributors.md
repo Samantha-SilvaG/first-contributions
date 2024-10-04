@@ -8468,3 +8468,4 @@ Didac Vilarnau
 - [Irfan Ansari](https://github.com/IRFANSARI) **First**
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
 - [Mayara Menezes](https://github.com/MayaraMenezes) **Olá, Brasil**
+- [Samantha Gomes da Silva](https://github.com/Samantha-SilvaG)**Olá, tudo belezinha?**
