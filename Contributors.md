@@ -2109,3 +2109,4 @@ Matthew Burgos
 - [Bhanu Katoch](https://github.com/bhanu-katoch)
 - [Alexcarbi] (https://github.com/alexcarbi)
 - Delaksan Sritharan
+- [Samantha Gomes Coltriz](https://github.com/Samantha-Gomes-Coltriz)
